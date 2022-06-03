@@ -1,2 +1,4 @@
 payload:
   - DOMAIN-SUFFIX,telemetry-in.battle.net
+  - DOMAIN-SUFFIX,us.battle.net
+  - DOMAIN-SUFFIX,battle.net
